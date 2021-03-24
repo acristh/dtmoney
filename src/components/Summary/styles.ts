@@ -1,4 +1,12 @@
 import styled from 'styled-components';
 
-export const Container = styled.h1`
+export const Container = styled.div`
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
 `;
