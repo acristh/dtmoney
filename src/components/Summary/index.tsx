@@ -1,5 +1,6 @@
-import { Container } from "./styles";
+import React from 'react';
 
+import { Container } from "./styles";
 import incomeIcon from '../../assets/income.svg';
 import outcomeIcon from '../../assets/outcome.svg';
 import totalIcon from '../../assets/total.svg';
