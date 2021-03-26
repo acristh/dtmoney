@@ -11,10 +11,10 @@ export function Dashboard() {
         <Container>
             <Summary />
 <<<<<<< HEAD
-            <TransactionTable />
+    <TransactionTable />
 =======
             <TransactionsTable />
 >>>>>>> 2cc8a431bdd9fa27bdd0e2f68bc842d43cb5fd5e
-        </Container>
+        </Container >
     );
 };
