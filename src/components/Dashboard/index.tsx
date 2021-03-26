@@ -8,7 +8,6 @@ export function Dashboard() {
         <Container>
             <Summary />
             <TransactionsTable />
-            <TransactionsTable />
         </Container >
     );
 };

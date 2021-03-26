@@ -11,10 +11,9 @@ export function Summary() {
             <div>
                 <header>
                     <p>Entradas</p>
-<<<<<<< HEAD
-                    <img src={incomeIcon} alt="entradas" />
+                    <img src={incomeIcon} alt="Entradas" />
                 </header>
-                <strong>R$5.000,00</strong>
+                <strong>R$10.000,00</strong>
             </div>
             <div>
                 <header>
@@ -27,25 +26,6 @@ export function Summary() {
                 <header>
                     <p>Total</p>
                     <img src={totalIcon} alt="Total" />
-                </header>
-                <strong>R$4.500,00</strong>
-=======
-                    <img src={incomeIcon} alt="Entradas"/>
-                </header>
-                <strong>R$10.000,00</strong>
->>>>>>> 2cc8a431bdd9fa27bdd0e2f68bc842d43cb5fd5e
-            </div>
-            <div>
-                <header>
-                    <p>Saídas</p>
-                    <img src={outcomeIcon} alt="Saídas"/>
-                </header>
-                <strong>- R$500,00</strong>
-            </div>
-            <div className="highlight-background">
-                <header>
-                    <p>Total</p>
-                    <img src={totalIcon} alt="Total"/>
                 </header>
                 <strong>R$9.500,00</strong>
             </div>
